@@ -1,0 +1,17 @@
+C:\Users\Estudiante\Desktop\Ejercicio Banco\Ejercicio Banco\Ejercicio Banco\bin\Debug\net8.0-windows\Ejercicio Banco.exe
+C:\Users\Estudiante\Desktop\Ejercicio Banco\Ejercicio Banco\Ejercicio Banco\bin\Debug\net8.0-windows\Ejercicio Banco.deps.json
+C:\Users\Estudiante\Desktop\Ejercicio Banco\Ejercicio Banco\Ejercicio Banco\bin\Debug\net8.0-windows\Ejercicio Banco.runtimeconfig.json
+C:\Users\Estudiante\Desktop\Ejercicio Banco\Ejercicio Banco\Ejercicio Banco\bin\Debug\net8.0-windows\Ejercicio Banco.dll
+C:\Users\Estudiante\Desktop\Ejercicio Banco\Ejercicio Banco\Ejercicio Banco\bin\Debug\net8.0-windows\Ejercicio Banco.pdb
+C:\Users\Estudiante\Desktop\Ejercicio Banco\Ejercicio Banco\Ejercicio Banco\obj\Debug\net8.0-windows\Ejercicio_Banco.Form1.resources
+C:\Users\Estudiante\Desktop\Ejercicio Banco\Ejercicio Banco\Ejercicio Banco\obj\Debug\net8.0-windows\Ejercicio_Banco.Form2.resources
+C:\Users\Estudiante\Desktop\Ejercicio Banco\Ejercicio Banco\Ejercicio Banco\obj\Debug\net8.0-windows\Ejercicio Banco.vbproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\Ejercicio Banco\Ejercicio Banco\Ejercicio Banco\obj\Debug\net8.0-windows\Ejercicio Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\Desktop\Ejercicio Banco\Ejercicio Banco\Ejercicio Banco\obj\Debug\net8.0-windows\Ejercicio Banco.AssemblyInfoInputs.cache
+C:\Users\Estudiante\Desktop\Ejercicio Banco\Ejercicio Banco\Ejercicio Banco\obj\Debug\net8.0-windows\Ejercicio Banco.AssemblyInfo.vb
+C:\Users\Estudiante\Desktop\Ejercicio Banco\Ejercicio Banco\Ejercicio Banco\obj\Debug\net8.0-windows\Ejercicio Banco.vbproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\Ejercicio Banco\Ejercicio Banco\Ejercicio Banco\obj\Debug\net8.0-windows\Ejercicio Banco.dll
+C:\Users\Estudiante\Desktop\Ejercicio Banco\Ejercicio Banco\Ejercicio Banco\obj\Debug\net8.0-windows\refint\Ejercicio Banco.dll
+C:\Users\Estudiante\Desktop\Ejercicio Banco\Ejercicio Banco\Ejercicio Banco\obj\Debug\net8.0-windows\Ejercicio Banco.pdb
+C:\Users\Estudiante\Desktop\Ejercicio Banco\Ejercicio Banco\Ejercicio Banco\obj\Debug\net8.0-windows\Ejercicio Banco.genruntimeconfig.cache
+C:\Users\Estudiante\Desktop\Ejercicio Banco\Ejercicio Banco\Ejercicio Banco\obj\Debug\net8.0-windows\ref\Ejercicio Banco.dll

@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC-1\\Desktop\\Ejercicio Banco\\Ejercicio Banco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAB0A97-AA39-49E3-B579-D75D2C74CB79}|Ejercicio Banco\\Ejercicio Banco.vbproj|c:\\users\\pc-1\\desktop\\ejercicio banco\\ejercicio banco\\ejercicio banco\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CDAB0A97-AA39-49E3-B579-D75D2C74CB79}|Ejercicio Banco\\Ejercicio Banco.vbproj|solutionrelative:ejercicio banco\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAB0A97-AA39-49E3-B579-D75D2C74CB79}|Ejercicio Banco\\Ejercicio Banco.vbproj|c:\\users\\pc-1\\desktop\\ejercicio banco\\ejercicio banco\\ejercicio banco\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CDAB0A97-AA39-49E3-B579-D75D2C74CB79}|Ejercicio Banco\\Ejercicio Banco.vbproj|solutionrelative:ejercicio banco\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAB0A97-AA39-49E3-B579-D75D2C74CB79}|Ejercicio Banco\\Ejercicio Banco.vbproj|c:\\users\\pc-1\\desktop\\ejercicio banco\\ejercicio banco\\ejercicio banco\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CDAB0A97-AA39-49E3-B579-D75D2C74CB79}|Ejercicio Banco\\Ejercicio Banco.vbproj|solutionrelative:ejercicio banco\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAB0A97-AA39-49E3-B579-D75D2C74CB79}|Ejercicio Banco\\Ejercicio Banco.vbproj|c:\\users\\pc-1\\desktop\\ejercicio banco\\ejercicio banco\\ejercicio banco\\cuenta.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CDAB0A97-AA39-49E3-B579-D75D2C74CB79}|Ejercicio Banco\\Ejercicio Banco.vbproj|solutionrelative:ejercicio banco\\cuenta.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC-1\\Desktop\\Ejercicio Banco\\Ejercicio Banco\\Ejercicio Banco\\Form2.vb",
+              "RelativeDocumentMoniker": "Ejercicio Banco\\Form2.vb",
+              "ToolTip": "C:\\Users\\PC-1\\Desktop\\Ejercicio Banco\\Ejercicio Banco\\Ejercicio Banco\\Form2.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio Banco\\Form2.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-16T01:44:41.541Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\PC-1\\Desktop\\Ejercicio Banco\\Ejercicio Banco\\Ejercicio Banco\\Form1.vb",
+              "RelativeDocumentMoniker": "Ejercicio Banco\\Form1.vb",
+              "ToolTip": "C:\\Users\\PC-1\\Desktop\\Ejercicio Banco\\Ejercicio Banco\\Ejercicio Banco\\Form1.vb",
+              "RelativeToolTip": "Ejercicio Banco\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-16T01:41:52.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cuenta.vb",
+              "DocumentMoniker": "C:\\Users\\PC-1\\Desktop\\Ejercicio Banco\\Ejercicio Banco\\Ejercicio Banco\\Cuenta.vb",
+              "RelativeDocumentMoniker": "Ejercicio Banco\\Cuenta.vb",
+              "ToolTip": "C:\\Users\\PC-1\\Desktop\\Ejercicio Banco\\Ejercicio Banco\\Ejercicio Banco\\Cuenta.vb",
+              "RelativeToolTip": "Ejercicio Banco\\Cuenta.vb",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAowJcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-16T00:49:28.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC-1\\Desktop\\Ejercicio Banco\\Ejercicio Banco\\Ejercicio Banco\\Form1.vb",
+              "RelativeDocumentMoniker": "Ejercicio Banco\\Form1.vb",
+              "ToolTip": "C:\\Users\\PC-1\\Desktop\\Ejercicio Banco\\Ejercicio Banco\\Ejercicio Banco\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio Banco\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-16T00:48:41.723Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
